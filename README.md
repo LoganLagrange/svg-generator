@@ -25,7 +25,7 @@ CLone the repo and open, use the command npm i to install all necessary packages
         
 Using the command node index.js will run the program. Answer the prompts based on what you want your logo to look like, once answered it will generate the svg file and tell you when it is done, the generated sg can be found in the output folder, note there is already an example in the folder and every time you run the program the logo.svg file wil be overwritten, so move  i if you want to keep the logo. The testing sutie can be  used by  using the command npm run test.
 
-[Walkthrough Video](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/e3be32c2-0af7-4b76-y0b7-785a26a2b228)
+[Walkthrough Video](https://drive.google.com/file/d/1aKEwrv9grYTr0OBrXl2KOpd_F-uhMvl6/view)
 
 ## Contribution Guidelines
 
